@@ -6,6 +6,9 @@ public class AntroidApplication {
 		System.out.println("Python");
 		System.out.println("TestNG");
 		System.out.println("Cucumber");
+		System.out.println("SQL");
+		System.out.println("API");
+
 	}
 
 }
